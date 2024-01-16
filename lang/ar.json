@@ -1,0 +1,11 @@
+{
+   "The provided credentials are incorrect":"البيانات المقدمة غير صحيحة",
+   "Successfully logged out":"تم تسجل الخروج",
+   "User is not authenticated":"ليس لديك صلاحيات",
+   "insert successfully":"تم التخزين",
+   "update successfully":"تم التحديث",
+   "deleted successfully":"تم الحذف",
+   "received":"مستلمة",
+   "InPreparation":"قيد التحضير",
+   "COMPLETED":"تم التسليم"
+}
